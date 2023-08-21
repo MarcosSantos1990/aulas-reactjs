@@ -3,7 +3,7 @@ import Cards from './components/Cards';
 import Links from './components/Links';
  
 function App() {
-  const mostrar = "true"
+  const mostrar = true
   return(
       <div className='App'>
         <Cards />
